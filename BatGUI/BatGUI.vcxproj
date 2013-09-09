@@ -85,6 +85,7 @@
   <ItemGroup>
     <None Include="app.ico" />
     <None Include="Costs.mdb" />
+    <None Include="Form1.datasource" />
     <None Include="Form11.datasource" />
     <None Include="ReadMe.txt" />
   </ItemGroup>

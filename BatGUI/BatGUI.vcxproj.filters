@@ -22,6 +22,9 @@
     <None Include="app.ico">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="Form1.datasource">
+      <Filter>DataSources</Filter>
+    </None>
     <None Include="Form11.datasource">
       <Filter>DataSources</Filter>
     </None>
